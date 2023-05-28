@@ -10,4 +10,7 @@ Data Science has application in numerous industries and domains, including finan
 
 Overall, data scsience is a field that leverages data and analytical techniques to extract meaningful insights and valueable knowledge, enabling business and organizations to make data-informed decisions andsolve complex problems.
 
+# Difference between Data Analyst vs Business Analyst vs Machine Learning Engineer vs Data Scientist vs Artificial Intelligence(AI).
 
+1. Data Analyst:
+> aksjd
