@@ -13,4 +13,10 @@ Overall, data scsience is a field that leverages data and analytical techniques 
 # Difference between Data Analyst vs Business Analyst vs Machine Learning Engineer vs Data Scientist vs Artificial Intelligence(AI).
 
 1. Data Analyst:
-> aksjd
+> - Data Analyst focus on gathering, analyzing and interpreting data to identify trends, patterms and insights.
+> - They use statistical techniques and tools to clean, organize and visualize data.
+> - Data Analysts often work with structured data and help business make data-driven decisions and solve specific problems.
+
+2. Business Analyst:
+> - Business analyst bridge the gap between business goals and technology solutions.
+> - They analyze business process, idenitfy areas for improvement and propose strategies to enchance efficiency and productivity.
