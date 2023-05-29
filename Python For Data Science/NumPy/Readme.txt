@@ -1,4 +1,4 @@
-###About NumPy
+# About NumPy
 
 **Topic covered in NumPy**
 > 1. Introduction to NumPy
