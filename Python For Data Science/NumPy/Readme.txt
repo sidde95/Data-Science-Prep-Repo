@@ -1,6 +1,6 @@
 #About NumPy
 
-#Topic covered in NumPy
+**Topic covered in NumPy**
 > 1. Introduction to NumPy
 > 2. Basics of NumPy
 > 3. Operations Over 1-D arrays
